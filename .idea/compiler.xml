@@ -2,7 +2,39 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
+      <module name="Flashcards.Flashcards-task-build-classes-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-classes-kotlin.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-reports-tests.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-test-results.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-tmp.main" target="11" />
       <module name="Flashcards.Flashcards-task.main" target="11" />
+      <module name="Flashcards.Topics-Arrays-Initializing_an_array_of_longs.main" target="11" />
+      <module name="Flashcards.Topics-Arrays-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Floating-point_types-Evaluate_an_expression.main" target="11" />
+      <module name="Flashcards.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Functions_as_objects-Function_composition.main" target="11" />
+      <module name="Flashcards.Topics-Functions_as_objects-Function_generator.main" target="11" />
+      <module name="Flashcards.Topics-Functions_as_objects-Kotlin_function_type.main" target="11" />
+      <module name="Flashcards.Topics-Functions_as_objects-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Lambda_expressions-Polynomial.main" target="11" />
+      <module name="Flashcards.Topics-Lambda_expressions-Range_multiplication.main" target="11" />
+      <module name="Flashcards.Topics-Lambda_expressions-Syntactic_sugar.main" target="11" />
+      <module name="Flashcards.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Random-Always_win_the_dice_game.main" target="11" />
+      <module name="Flashcards.Topics-Random-Predictable__random__password.main" target="11" />
+      <module name="Flashcards.Topics-Random-Roll_the_dice.main" target="11" />
+      <module name="Flashcards.Topics-Random-Theory.main" target="11" />
+      <module name="Flashcards.Topics-String_arrays-Empty.main" target="11" />
+      <module name="Flashcards.Topics-String_arrays-Theory.main" target="11" />
+      <module name="Flashcards.Topics-The_main___function-Theory.main" target="11" />
+      <module name="Flashcards.Topics-The_main___function-Using_arguments.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-Fourth_root.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Writing_files-Closed_case.main" target="11" />
+      <module name="Flashcards.Topics-Writing_files-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Writing_files-writeText__.main" target="11" />
       <module name="Flashcards.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>

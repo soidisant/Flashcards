@@ -4,12 +4,45 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Flashcards/task" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function generator" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Kotlin function type" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Range multiplication" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Syntactic sugar" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random/Always win the dice game" />
+            <option value="$PROJECT_DIR$/Topics/Random/Predictable  random  password" />
+            <option value="$PROJECT_DIR$/Topics/Random/Roll the dice" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Empty" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fourth root" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Using arguments" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Closed case" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/writeText()" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
